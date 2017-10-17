@@ -1,0 +1,16 @@
+header h1{ text-align: center; 
+           color: whitesmoke;
+           font-size:40px; 
+  }
+section h2{
+    text-align: center; 
+    color: whitesmoke;
+    font-size: 40px;
+    margin-top: 800px;
+}
+section h3{
+    text-align: center; 
+    color: whitesmoke;
+    font-size: 20px;
+    font-family: fantasy;
+}
